@@ -1,6 +1,12 @@
+pyqt5 (5.14.1+dfsg-ok3) yangtze; urgency=medium
+
+  * Rebuild with qtbase-abi-5-15-3.  
+
+ -- Luoyaoming <luoyaoming@kylinos.cn>  Fri, 14 Oct 2022 13:59:29 +0800
+
 pyqt5 (5.14.1+dfsg-ok2) yangtze; urgency=medium
 
-  * No change rebuild 
+  * No change rebuild.
 
  -- Luoyaoming <luoyaoming@kylinos.cn>  Thu, 02 Jun 2022 18:22:17 +0800
 
